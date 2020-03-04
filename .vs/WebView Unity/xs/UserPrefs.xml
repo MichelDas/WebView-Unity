@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0FD1B7C4-0400-88AC-FDF9-F604EA142244}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Webview/WebViewObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Webview/WebViewObject.cs" Line="337" Column="32" />
+      <File FileName="Assets/Scripts/Webview/ShowWebView.cs" Line="19" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="84e3f138-e2e8-4aba-8125-71d6d9b4dec4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
